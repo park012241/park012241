@@ -1,4 +1,25 @@
-### Hi there 👋
+# Joosung Park a.k.a SLoWMoTIoN
+* 👨‍🎓 I am Student now
+
+## I am currently working on...
+
+### As Team
+* [Cooktak](https://github.com/cooktak/): The crowd recipe service
+
+### As Person (Individual)
+* [노인코래방 (Noin Coraebang)](https://github.com/park012241/noin-coraebang): Music guessing game with Google Assistant
+    * Fully rewrite with Rust planed
+* [REDACTED]
+
+## I am currently learning...
+* [Rust](https://www.rust-lang.org/): A language empowering everyone to build reliable and efficient software.
+
+## 📫 How to reach me
+* E-mail: [admin@slowmotion.dev](mailto:admin@slowmotion.dev)
+* [Twitter: @SLoWMoTIoN0122](https://twitter.com/SLoWMoTIoN0122)
+* [Keybase: park012241](https://kaybase.io/park012241)
+* KakaoTalk: park012241
+* Telephone: [+82-10-3025-6290](tel:+82-10-3025-6290)
 
 <!--
 **park012241/park012241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
