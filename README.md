@@ -17,7 +17,7 @@
 ## 📫 How to reach me
 * E-mail: [admin@slowmotion.dev](mailto:admin@slowmotion.dev)
 * [Twitter: @SLoWMoTIoN0122](https://twitter.com/SLoWMoTIoN0122)
-* [Keybase: park012241](https://kaybase.io/park012241)
+* [Keybase: park012241](https://keybase.io/park012241)
 * KakaoTalk: park012241
 * Telephone: [+82-10-3025-6290](tel:+82-10-3025-6290)
 
