@@ -17,7 +17,7 @@
 
 ## 📫 How to reach me
 * E-mail: [admin@slowmotion.dev](mailto:admin@slowmotion.dev)
-* [Twitter: @SLoWMoTIoN0122](https://twitter.com/SLoWMoTIoN0122)
+* [Twitter: @HyperLapse122](https://twitter.com/HyperLapse122)
 * KakaoTalk: park012241
 * Telephone: [+82-10-8281-6290](tel:+82-10-8281-6290)
 
