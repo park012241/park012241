@@ -16,7 +16,7 @@
 * C# (Especially WPF)
 
 ## 📫 How to reach me
-* E-mail: [admin@slowmotion.dev](mailto:admin@slowmotion.dev)
+* E-mail: [iam@hyperlapse.dev](mailto:iam@hyperlapse.dev)
 * [Twitter: @HyperLapse122](https://twitter.com/HyperLapse122)
 * KakaoTalk: park012241
 * Telephone: [+82-10-8281-6290](tel:+82-10-8281-6290)
