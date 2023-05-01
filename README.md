@@ -1,4 +1,7 @@
-[![HyperLapse's GitHub stats](https://github-readme-stats.vercel.app/api?username=park012241)](https://github.com/anuraghazra/github-readme-stats)
+[![HyperLapse's GitHub stats](https://github-readme-stats.vercel.app/api?username=park012241&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![HyperLapse's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=park012241&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Joosung Park a.k.a HyperLapse
 * I am currently full-time working now
